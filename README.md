@@ -17,7 +17,7 @@ Criando Pontes é um aplicativo para gerenciar consultas com diferentes profissi
 ## Tecnologias Utilizadas
 - **Flutter**: Framework para desenvolvimento do aplicativo.
 - **Dart**: Linguagem de programação utilizada.
-- **Material Design**: Para a interface do usuário.
+- **Material Design**: Cores: Blue, Red, Grey[100], White, Fontes: Sombra Suave.
 
 ## Funcionalidades
 - **Busca**: Permite buscar profissionais de saúde.
