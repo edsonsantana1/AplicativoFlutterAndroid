@@ -1,16 +1,31 @@
-# projetoconstruindopontes
+# AplicativoFlutterAndroid
+Criação do meu primeiro aplicativo Flutter no Andorid Studio com a liguagem Dart.
 
-A new Flutter project.
+## Sobre o Projeto
+Este projeto inclui um arquivo grande que não pode ser armazenado diretamente no GitHub.
 
-## Getting Started
+## Arquivo Grande
+[Baixar Arquivo Grande](https://drive.google.com/drive/folders/1vuDwquL8Blrb0I2XvXcSfFDimgyFCa0C?usp=sharing)
 
-This project is a starting point for a Flutter application.
+Certifique-se de ter espaço suficiente para o download.
 
-A few resources to get you started if this is your first Flutter project:
+# Criando Pontes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Descrição
+Criando Pontes é um aplicativo para gerenciar consultas com diferentes profissionais de saúde, como fonoaudiólogos, fisioterapeutas, psicólogos, pediatras e psiquiatras. O objetivo é facilitar o agendamento de consultas médicas, permitindo que os usuários encontrem e agendem consultas com profissionais de saúde de forma rápida e eficiente.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+- **Flutter**: Framework para desenvolvimento do aplicativo.
+- **Dart**: Linguagem de programação utilizada.
+- **Material Design**: Cores: Blue, Red, Grey[100], White, Fontes: Sombra Suave.
+
+## Funcionalidades
+- **Busca**: Permite buscar profissionais de saúde.
+- **Agendamento**: Permite agendar consultas.
+- **Navegação**: Navegação entre diferentes telas do aplicativo.
+
+## Instalação
+### Requisitos do Sistema
+- **Hardware**: Dispositivo com Android.
+- **Software**: Flutter SDK, Android Studio ou Visual Studio Code.
+
